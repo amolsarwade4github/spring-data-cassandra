@@ -1,4 +1,4 @@
-# spring-data-cassandra
+# Spring Data Cassandra
 Spring Data Cassandra in Spring Boot
 
 ### How to Install Cassandra
